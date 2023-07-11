@@ -1,0 +1,174 @@
+/* body section */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.first-section {
+    margin: 0px;
+    background-color: rgba(240, 12, 62, 0.1);
+
+
+}
+
+.fast_section {
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 1px solid lightcoral; */
+
+
+
+}
+
+.left-side {
+    max-width: 600px;
+}
+
+.title {
+    font-size: 65px;
+    font-weight: 600;
+    margin-bottom: 35px;
+}
+
+.flower-iamge {
+    width: 450px;
+    height: 600px;
+    margin-top: 50px;
+}
+
+.btn_shop {
+    padding: 15px 30px;
+    color: rgb(235, 224, 224);
+    background-color: #E55473;
+    font-size: 20px;
+    border-radius: 8px;
+    border: none;
+
+}
+
+/* second section start  */
+.para {
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 48px;
+}
+
+.second_part {
+    text-align: center;
+    margin-top: 160px;
+}
+
+.second_title {
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 24px;
+}
+
+.three_flower {
+    margin: 0px 150px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.three_flower_text {
+    margin: 10px 280px;
+    justify-content: space-between;
+    display: flex;
+    font-weight: bolder;
+    text-decoration: underline;
+    margin-bottom: 100px;
+}
+
+.image1>img {
+    background-color: rgba(167, 33, 98, 0.15);
+    padding: 50px 30px 0px 30px;
+    width: 300px;
+    height: 400px;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.image2>img {
+    background-color: rgba(5, 151, 160, 0.15);
+    padding: 50px 30px 0px 30px;
+    width: 300px;
+    height: 400px;
+    border-radius: 300px 300px 0px 0px
+}
+
+.image3>img {
+    background-color: rgba(71, 125, 17, 0.15);
+    padding: 50px 30px 0px 30px;
+    width: 300px;
+    height: 400px;
+    border-radius: 300px 300px 0px 0px
+}
+
+
+
+
+    
+/* third part  */
+.third_section{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 150px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 50px 80px;
+    margin-bottom: 100px;
+    /* justify-content: center; */
+}
+
+.pic_1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.pic_2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.pic_3 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+     
+
+
+/* fourth section  */
+
+.fourth_section {
+    display: flex;
+    justify-content: center;
+    background:rgba(229, 84, 115, 0.05);
+}
+.bati{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 150px;
+    text-align: center;
+    padding: 50px ;
+} 
+
+.left_right {
+    max-width: 600px;
+    margin-right: 100px;
+}
+.btn_SignUp {
+    padding: 15px 30px;
+    color: rgb(235, 224, 224);
+    background-color: #E55473;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    border: none;
+}
+.header2 {
+    margin-bottom: 20px;
+}
