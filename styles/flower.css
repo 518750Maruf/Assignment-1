@@ -110,9 +110,9 @@
 
 
 
-    
+
 /* third part  */
-.third_section{
+.third_section {
     display: flex;
     justify-content: space-around;
     margin: 0px 150px;
@@ -127,17 +127,19 @@
     align-items: center;
     flex-direction: column;
 }
+
 .pic_2 {
     display: flex;
     align-items: center;
     flex-direction: column;
 }
+
 .pic_3 {
     display: flex;
     align-items: center;
     flex-direction: column;
 }
-     
+
 
 
 /* fourth section  */
@@ -145,21 +147,23 @@
 .fourth_section {
     display: flex;
     justify-content: center;
-    background:rgba(229, 84, 115, 0.05);
+    background: rgba(229, 84, 115, 0.05);
 }
-.bati{
+
+.bati {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0px 150px;
     text-align: center;
-    padding: 50px ;
-} 
+    padding: 50px;
+}
 
 .left_right {
     max-width: 600px;
     margin-right: 100px;
 }
+
 .btn_SignUp {
     padding: 15px 30px;
     color: rgb(235, 224, 224);
@@ -169,6 +173,114 @@
     margin-top: 20px;
     border: none;
 }
+
 .header2 {
     margin-bottom: 20px;
+}
+
+
+
+/* fifth section  */
+.fifth_section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 40px 150px 0px 150px;
+    flex-direction: column;
+}
+
+.describe {
+    margin-top: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    line-height: 25px;
+}
+
+.ful {
+    margin-top: 40px;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.f1 {
+    width: 280px;
+    height: 340px;
+}
+
+.f2 {
+    width: 280px;
+    height: 340px;
+}
+
+.f3 {
+    width: 280px;
+    height: 340px;
+}
+
+.f4 {
+    width: 280px;
+    height: 340px;
+}
+
+
+
+
+
+.sixth_section {
+    background-image: url("Rectangle\ 9.png");
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    text-align: center;
+    margin: 40px 150px 100px 150px;
+    flex-direction: column;
+}
+
+.write {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.write > h2{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.background {
+    display: flex;
+    justify-content: center;
+}
+
+.background>input {
+    padding: 10px;
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+}
+
+.background>button {
+    padding: 15px 30px;
+    color: rgb(235, 224, 224);
+    background-color: #E55473;
+    font-size: 20px;
+    border-radius: 8px;
+    border: none;
+    margin-left: 30px;
+}
+
+
+/* footer section */
+.footer_section{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 100px 400px;
+    background-color: black;
+    color: white;
+}
+.footer_section > p{
+    margin: 20px 0px;
 }
